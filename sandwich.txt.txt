@@ -1,4 +1,6 @@
 pan
+ketchup
+mostaza
 lechuga
 tomate
 huevo
